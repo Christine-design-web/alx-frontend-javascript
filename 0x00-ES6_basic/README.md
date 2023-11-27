@@ -1,1 +1,0 @@
-Javascript and other tasks
